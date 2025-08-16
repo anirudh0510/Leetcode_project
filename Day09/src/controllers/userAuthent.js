@@ -1,9 +1,9 @@
 const redisClient = require("../config/redis");
-const User = require("../Models/user");
+const User = require("../models/user");
 const validate = require("../utils/validator");
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
-const Submission = require("../Models/submission");
+const Submission = require("../models/submission");
 
 const register = async (req, res) => {
   try {

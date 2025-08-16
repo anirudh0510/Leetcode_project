@@ -3,10 +3,10 @@ const {
   submitBatch,
   submitToken,
 } = require("../utils/problemUtility");
-const Problem = require("../Models/problem");
-const User = require("../Models/user");
-const Submission = require("../Models/submission");
-const SolutionVideo = require("../Models/solutionVideo");
+const Problem = require("../models/problem");
+const User = require("../models/user");
+const Submission = require("../models/submission");
+const SolutionVideo = require("../models/solutionVideo");
 
 const createProblem = async (req, res) => {
   // API request to authenticate user:
