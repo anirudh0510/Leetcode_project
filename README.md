@@ -134,6 +134,7 @@ It demonstrates strong understanding of **full stack development**, **API design
 - Git and GitHub
 
 ---
+```text
 
 ## Project Structure
 Leetcode_project/
