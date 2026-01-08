@@ -164,7 +164,7 @@ Leetcode_project/
 ├── README.md
 
 ```` 
-##Environment Variables
+## Environment Variables
 PORT=3000
 
 DB_CONNECT_STRING=mongodb+srv://<username>:<password>@cluster.mongodb.net/<db_name>
