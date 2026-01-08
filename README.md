@@ -182,7 +182,7 @@ CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
 
-##Deployment
+## Deployment
 Frontend and backend are deployed on AWS EC2
 Reverse proxy and process management configured for production
 Environment variables securely managed on the server
