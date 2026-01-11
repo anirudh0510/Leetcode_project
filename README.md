@@ -76,7 +76,7 @@ It demonstrates strong understanding of **full stack development**, **API design
 - Videos stored and served using Cloudinary
 - Fast and optimized media delivery
 
-[IMAGE PLACEHOLDER – EDITORIAL PAGE]
+<img width="1457" height="765" alt="Screenshot 2026-01-11 at 4 57 44 PM" src="https://github.com/user-attachments/assets/0f886e61-9469-4a1f-8421-4b00064e3fdc" />
 
 ---
 
